@@ -1,0 +1,2 @@
+F:\Workspace\Visual Studio 2015\Projects\Serialize\Serialize\bin\Debug\Serialize.exe.config
+F:\Workspace\Visual Studio 2015\Projects\Serialize\Serialize\obj\Debug\Serialize.csprojResolveAssemblyReference.cache
